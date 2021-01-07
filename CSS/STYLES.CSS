@@ -1,0 +1,161 @@
+.h1 {
+  color: hsl(300, 43%, 22%);
+  font-size: 150%;
+  line-height: 20px;
+  left: 200px;
+  position: absolute;
+  top: 120px;
+}
+
+.top-cloud {
+  width: 40%;
+}
+
+.bottom-cloud {
+  position: absolute;
+  top: 30%;
+}
+
+.reviews {
+  position: absolute;
+  background-color: hsl(300, 24%, 96%);
+  width: 20%;
+  right: 400px;
+  top: 250px;
+  height: 40px;
+  text-align: center;
+}
+
+.guru {
+  position: absolute;
+  background-color: hsl(300, 24%, 96%);
+  width: 20%;
+  right: 450px;
+  top: 200px;
+  height: 40px;
+  text-align: center;
+}
+
+.BestTech {
+  position: absolute;
+  background-color: hsl(300, 24%, 96%);
+  width: 20%;
+  right: 500px;
+  top: 150px;
+  height: 40px;
+  text-align: center;
+}
+.p{
+
+  position: absolute;
+  left: 200px;
+  top: 300px;
+
+
+}
+
+.Colton{
+display: inline-block;
+  width: 15%;
+  height: 150px;
+  background-color:  hsl(300, 43%, 22%);
+  position: relative;
+  top: 80px;
+  left: 190px;
+  color: hsl(300, 24%, 96%);
+  font-size: 10px;
+  text-align: center;
+border-radius: 10px;
+
+
+}
+.needed{
+  position: relative;
+  margin: 50px 30px 20px 30px;
+  color: hsl(303, 10%, 53%);
+
+
+
+
+}
+
+.Irene{
+display: inline-block;
+  width: 15%;
+  height: 150px;
+  background-color: hsl(300, 43%, 22%);
+  position: relative;
+  left: 200px;
+  top: 100px;
+color: hsl(300, 24%, 96%);
+font-size: 10px;
+  text-align: center;
+  border-radius: 10px;
+
+}
+.customer{
+  position: relative;
+  margin: 50px 20px 20px 30px;
+  color: hsl(303, 10%, 53%);
+}
+.Anne{
+  display: inline-block;
+  width: 15%;
+  height: 150px;
+  background-color: hsl(300, 43%, 22%);
+  position:relative;
+  left: 220px;
+  top: 120px;
+color: hsl(300, 24%, 96%);
+font-size: 10px;
+  text-align: center;
+  border-radius: 10px;
+}
+.put{
+  position: relative;
+    margin: 50px 30px 20px 30px;
+    color: hsl(303, 10%, 53%);
+}
+.col{ display: inline-block;
+width: 30px;
+float: left;
+border-radius: 40px;
+position: relative;
+top: 20px;
+left:20px;
+
+
+}
+.Iren{
+  border-radius:40%;
+  float: left;
+width: 30px;
+position: relative;
+top: 20px;
+left:20px;
+
+}
+
+.an{
+  border-radius:40%;
+float: left;
+width: 30px;
+position: relative;
+top: 20px;
+left:20px;
+
+}
+.attribution{
+  position:absolute;
+  margin-top: 100px;
+  right: 10px;
+}
+.Verified{
+  color: hsl(303, 10%, 53%);
+}
+h3{
+  position: relative;
+  right:30px;
+  line-height:0.5;
+  top: 20px;
+}
